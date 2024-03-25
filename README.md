@@ -1,4 +1,4 @@
-### Hi there 👋
+Graduated in Engineering and Computer Science - University of Bologna.
 
 <!--
 **nardu55/nardu55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
